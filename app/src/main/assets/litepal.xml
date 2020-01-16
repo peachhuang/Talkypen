@@ -1,0 +1,15 @@
+<litepal>
+
+    <dbname value="talkypen"/>
+
+    <version value="6"/>
+
+    <list>
+        <mapping class="com.example.talkypen.entity.Device"/>
+        <mapping class="com.example.talkypen.entity.TalkypenDevice"/>
+        <mapping class="com.example.talkypen.entity.Cloud"/>
+        <mapping class="com.example.talkypen.entity.Load"/>
+        <mapping class="com.example.talkypen.entity.Cloudcontent"/>
+    </list>
+
+</litepal>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TalkyPen</string>
+
+    <!--LoginActivity-->
+    <string name="hint_input_phone_number">请输入手机号码</string>
+    <string name="hint_input_code">请输入验证码</string>
+
+    <!--SearchActivity-->
+    <!--<string name="main_bt_disable_msg">Bluetooth is disable</string>-->
+    <string name="main_bt_disable_msg">蓝牙未开启，请打开您的蓝牙设备</string>
+    <string name="main_location_disable_msg">Location is disable</string>
+    <string name="string_unknown">Unknown</string>
+    <string name="main_menu_settings">Settings</string>
+
+    <!--ConfigActivity-->
+    <string name="configure_station_sel_wifi">选择Wifi</string>
+    <string name="configure_station_ssid">Wifi ssid</string>
+    <string name="configure_station_password">Wifi 密码</string>
+
+    <string name="configure_wifi_disable_msg">Wifi不可用，请打开wifi</string>
+    <string name="configure_station_wifi_scanning">正在扫描Wifi……</string>
+    <string name="configure_station_wifi_scanning_nothing">设备没有扫描到wifi</string>
+
+    <string name="configure_station_ssid_error">Wifi ssid 不能为空</string>
+    <string name="configure_station_wifi_5g_error">设备不支持5G Wifi</string>
+    <string name="configure_station_wifi_5g_dialog_message">设备不支持 5G Wifi, 继续配网?</string>
+    <string name="configure_station_wifi_5g_dialog_continue">继续</string>
+    <string name="configure_station_wifi_5g_dialog_cancel">取消</string>
+
+</resources>
